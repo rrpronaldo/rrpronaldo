@@ -1,11 +1,14 @@
 # Ronaldo Regis Posser
 
-### Hello Everyone 
+### Hello Everyone 🤜🏻🤛
 
-I currently work in the banking sector, but my graduation in 2011 is computer science. I wish to return to the area of research and software development, and here are some repositories that I use for learning.
+I currently work in the banking sector, but my graduation in 2011 is computer science. I wish to return to the area of research and software development, and here👇 are some repositories that I use for learning. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ronaldo-regis-posser/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ronaldoposser/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d5d5d5?style=flat&logo=Gmail&logoColor=Red)](mailto:rrpronaldo@gmail.com)
+
+
 
 
 
@@ -23,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🦾🤜🏻🤛🏻🤘🏼👇🏻☝🏻👆🏼🤙🏼🖖🏻
 -->
