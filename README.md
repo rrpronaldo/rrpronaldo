@@ -7,7 +7,7 @@ I work with data analysis in the banking sector, using SQL, Python and Power BI;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ronaldo-regis-posser/)
 [![Acclaim Badge](https://img.shields.io/badge/-cclaim-blue?style=flat&logo=Acclaim&logoColor=blue&color=white)](https://www.youracclaim.com/users/ronaldo-regis-posser/badges)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ronaldoposser/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=Red)](mailto:rrpronaldo@gmail.com)
+
 
 
 
@@ -15,6 +15,7 @@ I work with data analysis in the banking sector, using SQL, Python and Power BI;
 
 
 <!--
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=Red)](mailto:rrpronaldo@gmail.com)
 **rrpronaldo/rrpronaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 there 👋
 
