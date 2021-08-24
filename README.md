@@ -2,7 +2,7 @@
 
 ### Hello World 🤜🏻🤛🏻
 
-I work with data analysis in the banking sector, using SQL, Python and Power BI; to extract knowledge from data for decision makers. I'm very motivaded to build new projects in Data Science and Machine Learning, and always learning about these areas by combining Artificial Intelligence. In my GitHub there are some repositories that I use for learning and research.
+I work with Data Engineering and Data Analysis in the Caixa Econômica Federal, the largest public bank of Latin America. I develop SQL, Python and Power BI solutions; to extract knowledge from data and then present data-driven insights to support decision making. I'm very motivaded to build new projects in Data Science and Machine Learning, and always learning about these areas by combining Artificial Intelligence. In my GitHub there are some repositories that I use for learning and researching.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ronaldo-regis-posser/)
 [![Acclaim Badge](https://img.shields.io/badge/-cclaim-blue?style=flat&logo=Acclaim&logoColor=blue&color=white)](https://www.youracclaim.com/users/ronaldo-regis-posser/badges)
